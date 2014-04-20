@@ -31,6 +31,7 @@ layout: home
 	</code></p>
 	</div>
 
+	<p> You may email me for CV and references if interested </p>
     </div>
     <div class="aside">
     </div>
