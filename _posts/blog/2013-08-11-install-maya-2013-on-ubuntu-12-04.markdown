@@ -15,9 +15,7 @@ wordpress_id: 595
 wordpress_url: http://www.guoshihui.net/?p=595
 date: '2013-08-11 15:45:04 +0800'
 date_gmt: '2013-08-11 15:45:04 +0800'
-categories:
-- Maya
-- Linux OS
+categories: blog
 tags: []
 comments: []
 ---

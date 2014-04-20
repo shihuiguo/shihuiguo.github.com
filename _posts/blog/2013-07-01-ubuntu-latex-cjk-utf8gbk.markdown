@@ -10,8 +10,7 @@ wordpress_id: 579
 wordpress_url: http://www.guoshihui.net/?p=579
 date: '2013-07-01 22:24:29 +0800'
 date_gmt: '2013-07-01 22:24:29 +0800'
-categories:
-- Latex
+categories: blog
 tags: []
 comments: []
 ---

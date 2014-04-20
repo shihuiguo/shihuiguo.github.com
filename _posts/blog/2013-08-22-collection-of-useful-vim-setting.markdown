@@ -10,8 +10,7 @@ wordpress_id: 633
 wordpress_url: http://www.guoshihui.net/?p=633
 date: '2013-08-22 21:01:08 +0800'
 date_gmt: '2013-08-22 21:01:08 +0800'
-categories:
-- Linux OS
+categories: blog
 tags: []
 comments: []
 ---
