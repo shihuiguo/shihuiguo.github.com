@@ -6,8 +6,9 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Blog</span></a></li>
-            <li ><a href="/opinion"><span>Opinion</span></a></li>
+            <li ><a href="/opinion"><span>方块字</span></a></li>
             <li ><a href="/project"><span>Project</span></a></li>
+            <li ><a href="/vfx"><span>VFX</span></a></li>
             <li ><a href="/aboutme"><span>About Me</span></a></li>
         </ul>
 

@@ -1,0 +1,17 @@
+---
+layout: page
+status: publish
+published: true
+title: Blog
+author: Shihui Guo
+author_login: yierbosimao
+author_email: mr.shihuiguo@gmail.com
+wordpress_id: 63
+wordpress_url: http://www.guoshihui.net/?page_id=63
+date: '2013-01-02 22:16:24 +0800'
+date_gmt: '2013-01-02 22:16:24 +0800'
+categories: []
+tags: []
+comments: []
+---
+<p>[ic_add_posts category='VFX']</p>

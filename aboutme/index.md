@@ -5,8 +5,9 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
-            <li ><a href="/opinion"><span>Opinion</span></a></li>
+            <li ><a href="/opinion"><span>方块字</span></a></li>
             <li ><a href="/project"><span>Project</span></a></li>
+            <li ><a href="/vfx"><span>VFX</span></a></li>
             <li class="on" style="text-align:center"><a href="/aboutme"><span>About Me</span></a></li>
         </ul>
 
@@ -29,9 +30,9 @@ layout: home
 	<p><code>
 	echo 'bXIuc2hpaHVpZ3VvQGdtYWlsLmNvbQo=' | openssl base64 -d
 	</code></p>
+	<p> You may email me for CV and references if interested </p>
 	</div>
 
-	<p> You may email me for CV and references if interested </p>
     </div>
     <div class="aside">
     </div>
