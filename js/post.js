@@ -78,8 +78,7 @@ $(document).ready(function(){
         }
 
         function genTmpl(){
-            var h1txt = $('h1').text();
-            var tmpl = '<ul><li class="h1"><a href="#">' + h1txt + '</a></li>';
+            var tmpl = '';
 
             var heading = initHeading();
             var h2 = heading.h2;
