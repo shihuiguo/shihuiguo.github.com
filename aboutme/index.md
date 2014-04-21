@@ -7,7 +7,7 @@ layout: home
             <li><a href="/"><span>Notes</span></a></li>
             <li ><a href="/project"><span>Project</span></a></li>
             <li ><a href="/vfx"><span>VFX</span></a></li>
-            <li class="on" style="text-align:center"><a href="/aboutme"><span>About Me</span></a></li>
+            <li class="on"><a href="/aboutme"><span>About Me</span></a></li>
             <li ><a href="/opinion"><span>方块字</span></a></li>
         </ul>
 
