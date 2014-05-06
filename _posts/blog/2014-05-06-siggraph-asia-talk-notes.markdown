@@ -15,6 +15,7 @@ Today I attended a talk given by Steve Lin from MSRA, as part of a satelite prog
 ![Image](../../images/nopain.png)
 
 However, some hidden messages here are:
+
 - the writing in parallel with the implementation is more about summary of your ideas, limitations, issues of implementation. It's a chance to rethink about your implementation, which is especially important if you got stuck or got fantastic result.
 - so when you do the initial writing, don't worry about the writing style, put everything down, use some drawings. At this stage, you are writing for yourself (or including your collegues).
 - the initial writings should contribute to sections of methodology, result and discussions in the final paper. Don't write anything on introduction and related work, that's left to the final writing.
