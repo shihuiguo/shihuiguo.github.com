@@ -7,10 +7,10 @@ category: blog
 When you are a PhD student (as I am now), perhaps one of the greatest achievements is to get your paper accepted to a top conference/journal, for example Siggraph in the community of computer graphics. This takes a lot of time and efforts to implement your idea, make your demo and write the paper. So my problem is when should we start writing a paper? 
 
 Most people may work in this way, start writing until the implementation is fully satsifactory. To be honest, this process is quite painful and lengthy. Sometimes your method just doesn't work out, which may lead to a waste of efforts.
-![Image](images/pain.png)
+![Image](../../images/pain.png)
 
 Today I attended a talk given by Steve Lin from MSRA, as part of a satelite program for Siggraph Asia 2014. He gives some good suggestions on how to write a good paper. Here I would share my personal experiences in writing a paper, together with his good practices. The proposed workflow is to do implementation and writing in parallel:
-![Image](images/nopain.png)
+![Image](../../images/nopain.png)
 
 However, some hidden messages here are:
 - the writing in parallel with the implementation is more about summary of your ideas, limitations, issues of implementation. It's a chance to rethink about your implementation, which is especially important if you got stuck or got fantastic result.
