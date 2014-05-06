@@ -9,9 +9,3 @@ When you are a PhD student (as I am now), perhaps one of the greatest achievemen
 Today I attended a talk given by Steve Lin from MSRA, as part of a satelite program for Siggraph Asia 2014. He gives some good suggestions on how to write a good paper. Here I would share my personal experiences in writing a paper, together with his good practices. Hope this could help some of you.
 
 ![Image](images/pain.png)
-
-
-
-
-
-
