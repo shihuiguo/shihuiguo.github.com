@@ -16,7 +16,7 @@ wordpress_id: 337
 wordpress_url: http://www.guoshihui.net/?p=337
 date: '2013-03-13 19:30:40 +0800'
 date_gmt: '2013-03-13 19:30:40 +0800'
-categories: opinion
+categories: [opinion, tibet]
 tags: []
 comments: []
 ---

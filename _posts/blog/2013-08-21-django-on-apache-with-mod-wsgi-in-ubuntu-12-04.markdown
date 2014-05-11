@@ -10,7 +10,7 @@ wordpress_id: 618
 wordpress_url: http://www.guoshihui.net/?p=618
 date: '2013-08-21 20:02:08 +0800'
 date_gmt: '2013-08-21 20:02:08 +0800'
-categories: blog
+categories: [blog, django, linux]
 tags: []
 comments: []
 ---

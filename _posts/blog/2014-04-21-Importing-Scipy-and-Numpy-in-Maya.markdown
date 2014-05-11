@@ -2,7 +2,7 @@
 layout: post
 title: Importing Numpy and Scipy into Maya 2014 on CentOS 6.5
 description: A hack way
-category: blog
+category: [blog, cg, linux, python]
 ---
 You may want to use numpy and scipy in maya to do some matrix operations or solve some odes, but unfortunately maya doesn't support these two python modules at this moment. If you google, most people will tell you to recompile the source and import into maya. 
 

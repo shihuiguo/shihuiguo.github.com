@@ -10,7 +10,7 @@ wordpress_id: 616
 wordpress_url: http://www.guoshihui.net/?p=616
 date: '2013-08-20 08:29:37 +0800'
 date_gmt: '2013-08-20 08:29:37 +0800'
-categories: blog
+categories: [blog, git, ec2]
 tags: []
 comments: []
 ---

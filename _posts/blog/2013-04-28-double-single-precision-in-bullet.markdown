@@ -17,7 +17,7 @@ wordpress_id: 527
 wordpress_url: http://www.guoshihui.net/?p=527
 date: '2013-04-28 17:13:08 +0800'
 date_gmt: '2013-04-28 17:13:08 +0800'
-categories: blog
+categories: [blog, bullet]
 ---
 <p>Numeric Stability is an annoying problem when we write algorithms, so here Bullet addresses this problem by defining a general type: btScalar, which can be either float or double. Therefore, it provides two ways for compiling, one is single precision (float), the other is double precision (double).</p>
 <p>Obviously double precision is able to reduce the numeric error, thus improving the stability. From my experience, the speed performance is not significantly affected (simple scene tested).<br />

@@ -10,7 +10,7 @@ wordpress_id: 657
 wordpress_url: http://www.guoshihui.net/?p=657
 date: '2013-09-20 08:29:24 +0800'
 date_gmt: '2013-09-20 08:29:24 +0800'
-categories: blog
+categories: [blog, linux]
 tags: []
 comments: []
 ---

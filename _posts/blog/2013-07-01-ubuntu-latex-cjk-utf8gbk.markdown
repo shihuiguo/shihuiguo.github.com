@@ -10,9 +10,7 @@ wordpress_id: 579
 wordpress_url: http://www.guoshihui.net/?p=579
 date: '2013-07-01 22:24:29 +0800'
 date_gmt: '2013-07-01 22:24:29 +0800'
-categories: blog
-tags: []
-comments: []
+categories: [blog, latex, linux]
 ---
 <p>It is always a bit mess to re-install these packages, so I decide to write a short tutorial for myself, also for anyone this might benefit.</p>
 <p>Start from scratch, then you need to install latex (or texlive) and cjk package</p>
