@@ -11,7 +11,7 @@ layout: home
             <li ><a href="/opinion"><span>方块字</span></a></li>
         </ul>
 
-        <div class="cate-bar"><span id="cateBar"></span></div>
+	<div class="divider"></div>
 
 	<div class="artical-list" >
 	<h3>

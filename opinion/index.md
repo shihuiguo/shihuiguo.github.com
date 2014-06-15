@@ -11,9 +11,7 @@ layout: home
             <li><a href="/aboutme"><span>About Me</span></a></li>
             <li class="on"><a href="/opinion"><span>方块字</span></a></li>
         </ul>
-
-        <div class="cate-bar"><span id="cateBar"></span></div>
-
+	<div class="divider"></div>
         <ul class="artical-list">
         {% for post in site.categories.opinion %}
             <li>
@@ -23,7 +21,5 @@ layout: home
             </li>
         {% endfor %}
         </ul>
-    </div>
-    <div class="aside">
     </div>
 </div>

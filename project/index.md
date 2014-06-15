@@ -11,19 +11,23 @@ layout: home
 	    <li><a href="/aboutme"><span>About Me</span></a></li>
             <li><a href="/opinion"><span>方块字</span></a></li>
         </ul>
-
-        <div class="cate-bar"><span id="cateBar"></span></div>
-
+	<div class="divider"></div>
         <ul class="artical-list">
         {% for post in site.categories.project %}
             <li>
-                <h2>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
-                </h2>
+		<div class = "featureimage" >
+			<img style="width:160px;" src="../images/{{ post.featureimage }}" /> 
+		</div>
+		<div class = "featuretext">
+		        <div class="title">
+			   	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			</div>
+			<div class="moreinfo">
+				<p>{{ post.author }}, {{ post.venue }} {{ post.year }}<a href="{{ post.paperlink }}"> (Download) </a></p>
+			</div>
+		</div>		
             </li>
         {% endfor %}
         </ul>
-    </div>
-    <div class="aside">
     </div>
 </div>
