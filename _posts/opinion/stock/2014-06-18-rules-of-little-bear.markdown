@@ -2,7 +2,9 @@
 layout: post
 title: 长投学堂——小熊定理
 description: 总结一下长投学堂的初级课程里面的五则小熊定理，作为笔记，督促自己学习
-category: opinion
+categories: 
+- opinion
+- stock
 ---
 * 应收账款
 如果一家公司连续两年应收账款的增长幅度超过营业收入增长幅度话，那说明没有赚多少钱，只是收到了很多白条。
