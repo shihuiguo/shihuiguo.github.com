@@ -4,6 +4,7 @@ title: Motion Adaptation With Motor Invariant Theory
 venue: IEEE Transactions on Systems, Man, and Cybernetics
 author: Fangde Liu, Richard Southern, Shihui Guo, Xiaosong Yang and Jian J Zhang
 paperlink: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6342930
+demolink: https://github.com/shihuiguo/papermedia/blob/master/2012/motionsynth_narrated.mp4?raw=true
 year: 2013
 category: project
 featureimage: paper/symmetry.png 

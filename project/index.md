@@ -20,10 +20,14 @@ layout: home
 		</div>
 		<div class = "featuretext">
 		        <div class="title">
-			   	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			   	<h2>{{ post.title }}</h2>
 			</div>
 			<div class="moreinfo">
-				<p>{{ post.author }}, {{ post.venue }} {{ post.year }}<a href="{{ post.paperlink }}"> (Download) </a></p>
+				<p>
+					{{ post.author }}, {{ post.venue }} {{ post.year }}
+					<a href="{{ post.paperlink }}"> [Paper] </a>
+					<a href="{{ post.demolink }}"> [Demo] </a>
+				</p>
 			</div>
 		</div>		
             </li>
