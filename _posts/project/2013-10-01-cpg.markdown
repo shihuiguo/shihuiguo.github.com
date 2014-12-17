@@ -1,11 +1,12 @@
 ---
 layout: project
 title: A Novel Locomotion Synthesis and Optimisation Framework for Insects
-venue: Computers & Graphics
+venue: Computers & Graphics 
 author: Shihui Guo, Jian Chang, Yang Cao, Jianjun Zhang
 paperlink: http://www.sciencedirect.com/science/article/pii/S0097849313001623
 demolink: https://github.com/shihuiguo/papermedia/blob/master/2013/a_novel_locomotion_synthesis_and_optimization_framework_for_insects_CG.mp4?raw=true 
 year: 2014
+note: (Special Issue of CAD/CG 2013)
 category: project
 featureimage: paper/cpg.png
 ---

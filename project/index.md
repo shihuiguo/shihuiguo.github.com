@@ -24,7 +24,7 @@ layout: home
 			</div>
 			<div class="moreinfo">
 				<p>
-					{{ post.author }}, {{ post.venue }} {{ post.year }}
+					{{ post.author }}, {{ post.venue }} {{ post.year }}, {{ post.note}}
 					<a href="{{ post.paperlink }}"> [Paper] </a>
 					<a href="{{ post.demolink }}"> [Demo] </a>
 				</p>
