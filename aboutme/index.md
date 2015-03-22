@@ -3,26 +3,24 @@ layout: home
 ---
 <div class="index-content aboutme">
     <div class="section">
-        <ul class="artical-cate">
-            <li><a href="/"><span>Notes</span></a></li>
-            <li ><a href="/project"><span>Project</span></a></li>
-            <li ><a href="/vfx"><span>VFX</span></a></li>
-            <li class="on"><a href="/aboutme"><span>About Me</span></a></li>
-            <li ><a href="/opinion"><span>方块字</span></a></li>
-        </ul>
-
+        {% include menubar.html %}
 	<div class="divider"></div>
 
 	<div class="artical-list" >
 	<h3>
 	<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
 
-	<p>2010 - 2014 Ph.D. Computer Animation</p>
+	<p>2010.10 - 2015.4 Ph.D. Computer Animation.</p>
 	<p>National Centre for Computer Animation, Bournemouth University</p>
 
-	<p>2006 - 2010 B.s. Electrical Engineering</p>
+	<p>2006.9 - 2010.7 B.s. Electrical Engineering</p>
 	<p>Yuanpei College, Peking University</p>
 
+	<h3>
+	<a name="education" class="anchor" href="#visiting"><span class="octicon octicon-link"></span></a>Visiting</h3>
+
+	<p>2014.3 - 2015.2 State Key Laboratory of Computer Science</p>
+	<p>Institute of Software, Chinese Academy of Sciences</p>
 	<h3>
 	<a name="find-me" class="anchor" href="#find-me"><span class="octicon octicon-link"></span></a>Find Me</h3>
 

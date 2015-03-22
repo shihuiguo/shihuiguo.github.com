@@ -93,12 +93,12 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
 .index-content .title-desc {color:#999;font-size:14px;line-height:1.6em;}
 
-.index-content .artical-cate { width:70%; margin:0 auto; }
-.index-content .artical-cate li { display:inline-block; *float:left; zoom:1; font-size:18px; width:19%; cursor:pointer; }
-.index-content .artical-cate li a,
-.index-content .artical-cate li a:visited { display:inline-block; zoom:1; color:#000; width:100%; }
-.index-content .artical-cate li a:hover { text-decoration:none; }
-.index-content .artical-cate li.on span{ color:red; }
+.index-content .menubar { width:70%; margin:0 100px; }
+.index-content .menubar li { display:inline-block; zoom:1; font-size:18px; width:120px; cursor:pointer; float:left;}
+.index-content .menubar li a,
+.index-content .menubar li a:visited { display:inline-block; zoom:1; color:#000; }
+.index-content .menubar li a:hover { text-decoration:none; }
+.index-content .menubar li.on span{ color:red; }
 
 .index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:100px; }
 .index-content #cateBar { display:inline-block; zoom:1; height:3px; background:red; position:relative; width:0; }
@@ -163,7 +163,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .section { margin-left:0; padding-right:0; }
     .index-content .section ul { width:85%; }
     .index-content .cate-bar { width:85%; }
-    .index-content .artical-cate { margin-top:50px; }
+    .index-content .menubar { margin-top:50px; }
 
     .blog .aside,
     .project .aside,
@@ -175,7 +175,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .home-menu { position:absolute; }
     .index-content .cate-bar ,
     .index-content .artical-list,
-    .index-content .artical-cate { width:85%; }
+    .index-content .menubar { width:85%; }
     .sidenav {display:none;}
     .entry {float:none;width:auto;background:transparent;padding:0;box-shadow:none;}
     #content {width:85%;margin:100px auto 50px; }

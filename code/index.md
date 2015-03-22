@@ -2,16 +2,17 @@
 layout: home
 ---
 
-<div class="index-content opinion">
+<div class="index-content code">
     <div class="section">
         {% include menubar.html %}
 	<div class="divider"></div>
         <ul class="artical-list">
-        {% for post in site.categories.opinion %}
+        {% for post in site.categories.code %}
             <li>
                 <h2>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    {{ post.title }}		
                 </h2>
+		{{ post.authors }}  <a href="{{ post.githuburl }}">[Github Repository]</a>
             </li>
         {% endfor %}
         </ul>

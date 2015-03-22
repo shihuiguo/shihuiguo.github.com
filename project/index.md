@@ -2,15 +2,9 @@
 layout: home
 ---
 
-<div class="index-content project">
+<div class="index-content note">
     <div class="section">
-        <ul class="artical-cate">
-            <li><a href="/"><span>Notes</span></a></li>
-            <li class="on"><a href="/project"><span>Project</span></a></li>
-	    <li><a href="/vfx"><span>VFX</span></a></li>
-	    <li><a href="/aboutme"><span>About Me</span></a></li>
-            <li><a href="/opinion"><span>方块字</span></a></li>
-        </ul>
+        {% include menubar.html %}
 	<div class="divider"></div>
         <ul class="artical-list">
         {% for post in site.categories.project %}

@@ -11,6 +11,7 @@ wordpress_url: http://www.guoshihui.net/?p=261
 date: '2013-01-07 20:18:15 +0800'
 date_gmt: '2013-01-07 20:18:15 +0800'
 categories:
+- opinion
 - VFX
 tags: []
 comments: []
