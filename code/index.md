@@ -10,9 +10,9 @@ layout: home
         {% for post in site.categories.code %}
             <li>
                 <h2>
-                    {{ post.title }}		
+                    {{ post.title | truncatewords:10 }}		
                 </h2>
-		{{ post.authors }}  <a href="{{ post.githuburl }}">[Github Repository]</a>
+		{{ post.authors | truncatewords: 10 }}  <a href="{{ post.githuburl }}">[Github Repository]</a>
             </li>
         {% endfor %}
         </ul>
