@@ -1,0 +1,23 @@
+股本结构
+========
+
+控股股东
+-----------
+
+.. exceltable:: 控股股东
+   :file: ../data/股本结构.xls
+   :header: 1
+   :selection: A1:E8
+   :sheet: 0 
+
+流通股
+---------
+
+
+.. exceltable:: 流通股
+   :file: ../data/股本结构.xls
+   :header: 1
+   :selection: A1:E7
+   :sheet: 1 
+
+近期是否有大小股东解禁期到，是否表态长期持股

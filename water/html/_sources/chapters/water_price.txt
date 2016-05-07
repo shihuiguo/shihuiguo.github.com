@@ -1,0 +1,73 @@
+水价信息
+========
+
+现阶段水价
+-----------
+
+江阴市
+
+.. exceltable:: 江阴水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A1:F4
+   :sheet: water
+
+南昌市生活用水（5人以下家庭月用水，每增加一人，每月增加5吨）
+
+.. exceltable:: 南昌水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A6:D11
+   :sheet: water
+
+武汉市
+
+.. exceltable:: 武汉水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A15:D20
+   :sheet: water
+
+
+南海市
+
+.. exceltable:: 南海水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A23:D26
+   :sheet: water
+
+中山市
+
+.. exceltable:: 中山水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A29:D32
+   :sheet: water
+
+武汉市
+
+.. exceltable:: 武汉水价信息
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A35:D37
+   :sheet: water
+
+
+
+阶梯水价及调价规划
+----------------------
+
+.. exceltable:: 阶梯水价及调价规划
+   :file: ../data/水价信息.xls
+   :header: 1
+   :selection: A1:C7
+   :sheet: time
+
+
+
+
+
+净资产收益率的比较
+----------------------
+理论上说是不超过11％

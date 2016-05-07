@@ -1,0 +1,55 @@
+核心信息
+========
+
+制水业务
+---------
+
+供水量、收入、成本、供水能力、制水量占当地市场比例，覆盖人群占当地市场比例
+
+.. exceltable:: 制水业务营业收入
+   :file: ../data/制水业务.xls
+   :header: 1
+   :selection: A1:B9
+   :sheet: 营业收入成本
+
+
+.. exceltable:: 制水业务营业成本
+   :file: ../data/制水业务.xls
+   :header: 1
+   :selection: A11:B19
+   :sheet: 营业收入成本
+
+
+.. exceltable:: 制水量
+   :file: ../data/制水业务.xls
+   :header: 1
+   :selection: A1:B9
+   :sheet: 制水量
+
+
+污水处理业务 
+--------------
+
+污水处理量、收入、成本、供水能力、污水处理量占当地市场比例、覆盖人群占当地市场比例
+
+
+.. exceltable:: 污水处理业务营业收入
+   :file: ../data/污水处理业务.xls
+   :header: 1
+   :selection: A1:B9
+   :sheet: 营业收入成本
+
+
+.. exceltable:: 污水处理业务营业成本
+   :file: ../data/污水处理业务.xls
+   :header: 1
+   :selection: A12:B20
+   :sheet: 营业收入成本
+
+
+.. exceltable:: 污水处理量
+   :file: ../data/污水处理业务.xls
+   :header: 1
+   :selection: A1:B9
+   :sheet: 污水处理量
+

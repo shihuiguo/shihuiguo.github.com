@@ -1,0 +1,30 @@
+用水需求分析
+==============
+
+近十年的生活用水和工业用水的比例
+
+
+生活用水
+-----------
+
+主要看近十年常驻人口
+
+.. exceltable:: 城市常住人口
+   :file: ../data/用水量_污水处理量分析.xls
+   :header: 1
+   :selection: A1:K5
+   :sheet: population
+
+
+工业用水
+---------
+
+主要看近十年工业增加值、第二产业、gdp
+
+.. exceltable:: 工业增加值
+   :file: ../data/用水量_污水处理量分析.xls
+   :header: 1
+   :selection: A1:K5
+   :sheet: industrial
+
+
