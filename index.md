@@ -1,14 +1,11 @@
 ---
 layout: home
 ---
-<div class="index-content aboutme">
+<div class="index-content ">
     <div class="section">
         {% include menubar.html %}
 	<div class="divider"></div>
 
-	<div class="artical-list" >
-
-	<div class="divider"></div>
 	<h3>
 	<a name="work" class="anchor" href="#work"><span class="octicon octicon-link"></span></a>Working Experience</h3>
 	<p>2015.10 - current Research Fellow </p>
