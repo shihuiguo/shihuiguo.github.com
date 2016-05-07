@@ -7,14 +7,24 @@ layout: home
 	<div class="divider"></div>
 
 	<div class="artical-list" >
+
+	<h3>
+	<a name="work" class="anchor" href="#work"><span class="octicon octicon-link"></span></a>Working Experience</h3>
+	<p>2015.10 - current Research Fellow </p>
+	<p>Institue of Media Innovation, Nanyang Technological University</p>
+	<p>Supervisor: Prof. Nadia Thalmann</p>
+
+
 	<h3>
 	<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
 
-	<p>2010.10 - 2015.4 Ph.D. Computer Animation.</p>
+	<p>2010.10 - 2015.9 Ph.D. Computer Animation.</p>
 	<p>National Centre for Computer Animation, Bournemouth University</p>
+	<p>Supervisor: Prof. Jianjun Zhang & Prof. Jian Chang</p>
 
 	<p>2006.9 - 2010.7 B.s. Electrical Engineering</p>
 	<p>Yuanpei College, Peking University</p>
+	<p>Supervisor: Prof. Xinyu Mao</p>
 
 	<h3>
 	<a name="education" class="anchor" href="#visiting"><span class="octicon octicon-link"></span></a>Visiting</h3>
