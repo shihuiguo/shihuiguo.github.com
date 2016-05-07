@@ -1,9 +1,9 @@
-auto: true
 
-markdown: rdiscount
-pygments: true
+markdown: kramdown
+highlighter: pygments
 paginate: 8
 permalink: /:title
+gems: [jekyll-paginate]
 
 title: Shihui Guo
 url: http://guoshihui.net

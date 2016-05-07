@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 ---
-<div class="index-content ">
+<div class="index-content home">
     <div class="section">
         {% include menubar.html %}
 	<div class="divider"></div>
@@ -38,9 +38,4 @@ layout: home
 	</code></p>
 	<p> You may email me for CV and references if interested </p>
 	</div>
-
     </div>
-    <div class="aside">
-    </div>
-</div>
-
