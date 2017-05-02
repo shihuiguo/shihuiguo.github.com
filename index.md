@@ -4,9 +4,11 @@ layout: default
 <div class="index-content home">
     <div class="section">
         {% include menubar.html %}
-
+	
+	<p>I am currently a research-track assistant professor in School of Software, Xiamen University. I obtained my bachelor from Peking University, China and Ph.D. from Bournemouth University, UK. After that I joined Institute of Media Innovation in Nanyang Technological University, under the supervision of Prof. Nadia Thalmann, before moving back to China</p>
 
 	<div class="divider"></div>
+	<div>
 	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Projects</h3>
 		<ul class="artical-list">
 		{% for post in site.categories.project %}
@@ -29,6 +31,8 @@ layout: default
 		    </li>
 		{% endfor %}
 		</ul>
+	</div>
+	<div class="divider"></div>
 	<h3>
 	<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
 
@@ -46,5 +50,4 @@ layout: default
 	<p>2014.3 - 2015.2 State Key Laboratory of Computer Science</p>
 	<p>Institute of Software, Chinese Academy of Sciences</p>
 	<h3>
-    </div>
-</div>
+
