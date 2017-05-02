@@ -6,12 +6,12 @@ layout: default
         {% include menubar.html %}
 	
 	<div class="divider"></div>
-	<div class="section">
-	<p>I am currently a research-track assistant professor in School of Software, Xiamen University. I obtained my bachelor from Peking University, China and Ph.D. from Bournemouth University, UK. After that I joined Institute of Media Innovation in Nanyang Technological University, under the supervision of Prof. Nadia Thalmann, before moving back to China</p>
+	<div class="bio">
+	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Short Bio</h3>
+	<p>I am currently a research-track assistant professor in School of Software, Xiamen University. I obtained my bachelor from Yuanpei College, Peking University (2010), China and Ph.D. from National Centre for Computer Animation, Bournemouth University, UK (2015). My Ph.D. supervisors are <a href="http://nccastaff.bournemouth.ac.uk/jzhang/">Prof. Jianjun Zhang</a> and <a href="http://staffprofiles.bournemouth.ac.uk/display/jchang">Assoc Prof. Jian Chang</a>. During my Ph.D, I also visited <a href="http://people.ucas.ac.cn/~wangwencheng">Prof. Wencheng Wang</a> from State Key Laboratory of Computer Science in Institute of Software, Chinese Academy of Science. After that I joined Institute of Media Innovation in Nanyang Technological University, under the supervision of <a href="http://nadiathalmann.com/index.html">Prof. Nadia Thalmann</a>, before moving back to China</p>
 	</div>
 
-	<div class="divider"></div>
-	<div class="section">
+	<div class="fullsection">
 	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Projects</h3>
 		<ul class="artical-list">
 		{% for post in site.categories.project %}
@@ -34,19 +34,4 @@ layout: default
 		    </li>
 		{% endfor %}
 		</ul>
-	</div>
-
-	<div class="divider"></div>
-	<div class="section">
-	<h3>
-	<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
-
-	<p>2010.10 - 2015.9 Ph.D. Computer Animation. (Supervisor: Prof. Jianjun Zhang & Asso Prof. Jian Chang)</p>
-	<p>National Centre for Computer Animation, Bournemouth University</p>
-
-	<p>2006.9 - 2010.7 B.s. Electrical Engineering. (Supervisor: Prof. Xinyu Mao)</p>
-	<p>Yuanpei College, Peking University</p>
-
-	<p>2014.3 - 2015.2 State Key Laboratory of Computer Science (Visiting, Supervisor: Prof. Wencheng Wang)</p>
-	<p>Institute of Software, Chinese Academy of Sciences</p>
 	</div>
