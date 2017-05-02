@@ -7,13 +7,6 @@ layout: default
 	<div class="divider"></div>
 
 	<h3>
-	<a name="work" class="anchor" href="#work"><span class="octicon octicon-link"></span></a>Working Experience</h3>
-	<p>2015.10 - current Research Fellow </p>
-	<p>Institue of Media Innovation, Nanyang Technological University</p>
-	<p>Supervisor: Prof. Nadia Thalmann</p>
-
-
-	<h3>
 	<a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
 
 	<p>2010.10 - 2015.9 Ph.D. Computer Animation.</p>
@@ -30,12 +23,30 @@ layout: default
 	<p>2014.3 - 2015.2 State Key Laboratory of Computer Science</p>
 	<p>Institute of Software, Chinese Academy of Sciences</p>
 	<h3>
-	<a name="find-me" class="anchor" href="#find-me"><span class="octicon octicon-link"></span></a>Find Me</h3>
 
-	<p>To avoid email spam, please use the following command line to find my email address, =)</p>
-	<p><code>
-	echo 'bXIuc2hpaHVpZ3VvQGdtYWlsLmNvbQo=' | openssl base64 -d
-	</code></p>
-	<p> You may email me for CV and references if interested </p>
+	<div class="divider"></div>
+	<div>
+	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Projects</h3>
+		<ul class="artical-list">
+		{% for post in site.categories.project %}
+		    <li>
+			<div class = "featureimage" >
+				<img style="width:160px;" src="../images/{{ post.featureimage }}" /> 
+			</div>
+			<div class = "featuretext">
+				<div class="title">
+				   	<h2>{{ post.title }}</h2>
+				</div>
+				<div class="moreinfo">
+					<p>
+						{{ post.author }}, {{ post.venue }} {{ post.year }}, {{ post.note}}
+						<a href="{{ post.paperlink }}"> [Paper] </a>
+						<a href="{{ post.demolink }}"> [Demo] </a>
+					</p>
+				</div>
+			</div>		
+		    </li>
+		{% endfor %}
+		</ul>
 	</div>
     </div>
