@@ -1,0 +1,13 @@
+---
+layout: project
+title: Understanding the impact of multimodal interaction using gaze informed mid-air gesture control in 3D virtual objects manipulation
+venue: Internationl Journal of Human-Computer Studies 
+author: Shujie Deng, Nan Jiang, Jian Chang, Shihui Guo, Jianjun Zhang
+paperlink: http://www.sciencedirect.com/science/article/pii/S1071581917300629
+demolink: http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1071581917300629/1-s2.0-S1071581917300629-mmc1.mp4/272548/html/S1071581917300629/1477c35ae5423e289cff447f672e3080/mmc1.mp4
+year: 2017, Volume 105, Issue 68-80 
+note: 
+category: project
+featureimage: paper/gesture.png
+---
+

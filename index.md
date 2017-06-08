@@ -12,7 +12,7 @@ layout: default
 	</div>
 
 	<div class="fullsection">
-	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Projects</h3>
+	<h3><a name="project" class="anchor" href="#project"><span class="octicon octicon-link"></span></a>Publications</h3>
 		<ul class="artical-list">
 		{% for post in site.categories.project %}
 		    <li>
@@ -25,7 +25,7 @@ layout: default
 				</div>
 				<div class="moreinfo">
 					<p>
-						{{ post.author }}, {{ post.venue }} {{ post.year }}, {{ post.note}}
+						{{ post.author }}, {{ post.venue }}, {{ post.year }}, {{ post.note}}
 						<a href="{{ post.paperlink }}"> [Paper] </a>
 						<a href="{{ post.demolink }}"> [Demo] </a>
 					</p>

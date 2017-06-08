@@ -2,11 +2,11 @@
 layout: project
 title: Customization and Fabrication of the Appearance for Humanoid Robot
 venue: The Visual Computer 
-author: ShihuiGuo, HanxiangXu, Nadia MagnenatThalmann, Junfeng Yao
+author: Shihui Guo, Hanxiang Xu, Nadia Magnenat Thalmann, Junfeng Yao
 paperlink: https://link.springer.com/article/10.1007/s00371-016-1329-6
 demolink: https://github.com/shihuiguo/papermedia/blob/master/2017/vc.mp4?raw=true
-year: 2017
-note: (Feature Image of the Included Issue)
+year: 2017, Volume 33, Issue 1, pp 63-74
+note: (Cover Image of the Included Issue)
 category: project
 featureimage: paper/becassine.png
 ---
