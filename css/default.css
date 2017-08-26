@@ -87,6 +87,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .section { margin:0 auto; width:80%;}
 .index-content .fullsection { margin:0 auto; width:100%; float: left;}
 .index-content .bio { margin:0 auto; width:80%; float: left;}
+.index-content .separator {margin-bottom: 30px;}
 
 .index-content .artical-list { margin:0 auto; }
 .index-content .artical-list li { margin: 10px auto; width: 980px; float: left;}
