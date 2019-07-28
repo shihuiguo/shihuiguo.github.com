@@ -17,6 +17,11 @@ layout: default
 	<li>Dynamic Design and Customized Fabrication of Personalized Robots, July 2017. Part of <a href="http://staff.ustc.edu.cn/~lgliu/Courses/SummerSchool_2017/default.html">USTC Summer School 2017 (中国科技大学《计算机图形学》暑期课程)</a>. This is one of the best summer schools in the fields of computer graphics, <span style="font-weight:bold;">I would encourage undergraduate and graduate students from relevant fields to attend.</span> <a href="https://www.jianguoyun.com/p/DZANRZIQnP3hBRijsDM">[PDF]</a> </li>	
 	<li>SOF102 Computer Fundamentals. 2016 Autumn.</li>
 	<li>SOF103 C and C++ Programming. 2016 Autumn.</li>
+	<li>C++ Programming. 2019 Spring.</li>
+	<li>Computer Simulation. 2018, 2019 Autumn.</li>
+	<li>Augmented Reality Technology and Application, 2018, 2019 Autumn.</li>
+	<li>Game Design and Programming, 2018, 2019 Autumn.</li>
+	<li>Human-Computer Interaction, 2018, 2019 Summer.</li>
 	</ul>
 	</div>
 
